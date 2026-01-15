@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 Professional Snapshot
-- [cite_start]🌟 **Google Student Ambassador**: Primary contact for Google on campus; organizing workshops and hackathons[cite: 11, 14].
-- [cite_start]🛡️ **Cybersecurity Researcher**: Trained in penetration testing and cryptography (IBM Skills Build)[cite: 17, 20].
-- [cite_start]🤖 **AI/ML Specialist**: Working with TensorFlow Lite, Whisper API, and Groq LPU for low-latency inference[cite: 4, 5, 34].
+- [cite_start]🌟 **Google Student Ambassador**: Leading technical workshops and fostering developer communities on campus[cite: 14, 15].
+- [cite_start]🤖 **AI/ML Specialist**: Engineering solutions with **Gemini 2.5 API**, **Whisper API**, and **Groq LPU**[cite: 4, 5, 34, 36].
+- [cite_start]🛡️ **Cybersecurity Researcher**: Trained in penetration testing and cryptography via IBM Skills Build[cite: 17, 20].
 
 ### 🛠️ Technical Toolkit
 <p align="left">
@@ -23,12 +23,12 @@
 
 ---
 
-### 🏗️ GSoC Featured Projects
-- [cite_start]**KaamSetu**: Rural labor exchange with a **Dialogflow** multilingual voice assistant[cite: 26, 30].
-- [cite_start]**MindMate AI**: Emotional companion utilizing **Whisper API** for voice emotion analysis[cite: 31, 33].
-- [cite_start]**Secure Image Steganography**: System for encrypted data transmission using **Python** and **OpenCV**[cite: 21].
+### 🏗️ GSoC-Ready Projects
+- [cite_start]**KaamSetu**: AI Rural Labor Exchange using **TensorFlow Lite** and **Dialogflow** for multilingual accessibility[cite: 26, 29, 30].
+- [cite_start]**MindMate AI**: Emotional companion with real-time voice emotion analysis and **Groq API** for low-latency support[cite: 31, 33, 34].
+- [cite_start]**Secure Image Steganography**: Python & OpenCV system for encrypted data transmission[cite: 21].
 
-### 📊 Activity Metrics
+### 📊 Performance & Consistency
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight" />
