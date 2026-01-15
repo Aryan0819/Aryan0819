@@ -31,11 +31,11 @@
 ### 📊 Performance & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="185" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="185" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="185" alt="Top Languages" />
 </p>
