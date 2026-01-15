@@ -33,7 +33,7 @@
 * **Key Features:**
     * Developed on-device skill matching using **TensorFlow Lite** to ensure privacy and offline capability.
     * Architected a high-performance **FastAPI** backend.
-    * Integrated **Dialogflow** to provide a multilingual voice assistant for improved accessibility.
+  
 
 ### 🧠 MindMate AI | AI-Powered Emotional Companion
 * **Description:** A mental wellness application focused on real-time emotional support.
