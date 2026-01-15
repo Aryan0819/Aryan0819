@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/aryan0819"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/aryan-raj-620640352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aryanrajnc8521@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -16,12 +16,15 @@
 - 🤖 **Generative AI Developer**: Building real-world applications using Gemini 2.5, Whisper API, and Groq LPU for low-latency inference.
 - 🛡️ **Cybersecurity Researcher**: Trained in penetration testing and cryptography through IBM Skills Build.
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Toolkit (From My Resume)
 <p align="left">
- <img src="https://skillicons.dev/icons?i=py,flask,js,html,css,dart,flutter,tensorflow,gcp,firebase,sqlite,linux" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,mysql,dart,flutter,tensorflow,fastapi,gcp,firebase" />
 </p>
 
----
+- **AI & ML**: Generative AI, NLP, TensorFlow Lite, scikit-learn, Gemini 2.5 API, Groq API, Whisper API.
+- **Programming**: Python, Java, C, SQL, OOPS, DAS.
+- **Voice & Cloud**: Dialogflow, Firebase, Google Cloud, Vertex AI, Streamlit, API Integration.
+- **Cybersecurity**: Cryptography, Network Security, Penetration Testing.
 
 ## 🏗️ Featured Projects
 
