@@ -12,21 +12,47 @@
 ---
 
 ### 🚀 Professional Snapshot
-- [cite_start]🌟 **Google Student Ambassador**: Leading technical workshops and fostering developer communities on campus[cite: 14, 15].
-- [cite_start]🤖 **AI/ML Specialist**: Engineering solutions with **Gemini 2.5 API**, **Whisper API**, and **Groq LPU**[cite: 4, 5, 34, 36].
-- [cite_start]🛡️ **Cybersecurity Researcher**: Trained in penetration testing and cryptography via IBM Skills Build[cite: 17, 20].
+- 🌟 **Google Student Ambassador**: Primary point of contact for Google on campus, leading technical workshops and hackathons.
+- 🤖 **Generative AI Developer**: Building real-world applications using Gemini 2.5, Whisper API, and Groq LPU for low-latency inference.
+- 🛡️ **Cybersecurity Researcher**: Trained in penetration testing and cryptography through IBM Skills Build.
 
 ### 🛠️ Technical Toolkit
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,dart,flutter,fastapi,tensorflow,gcp,firebase,sqlite,java,c,js,linux" />
+ <img src="https://skillicons.dev/icons?i=py,flask,js,html,css,dart,flutter,tensorflow,gcp,firebase,sqlite,linux" />
 </p>
 
 ---
 
-### 🏗️ GSoC-Ready Projects
-- [cite_start]**KaamSetu**: AI Rural Labor Exchange using **TensorFlow Lite** and **Dialogflow** for multilingual accessibility[cite: 26, 29, 30].
-- [cite_start]**MindMate AI**: Emotional companion with real-time voice emotion analysis and **Groq API** for low-latency support[cite: 31, 33, 34].
-- [cite_start]**Secure Image Steganography**: Python & OpenCV system for encrypted data transmission[cite: 21].
+## 🏗️ Featured Projects
+
+### 🌾 KaamSetu | AI Rural Labor Exchange
+* **Description:** An end-to-end employment platform designed to bridge the gap for rural labor.
+* **Key Features:**
+    * Developed on-device skill matching using **TensorFlow Lite** to ensure privacy and offline capability.
+    * Architected a high-performance **FastAPI** backend.
+    * Integrated **Dialogflow** to provide a multilingual voice assistant for improved accessibility.
+
+### 🧠 MindMate AI | AI-Powered Emotional Companion
+* **Description:** A mental wellness application focused on real-time emotional support.
+* **Key Features:**
+    * Engineered voice emotion analysis and sentiment detection using the **Whisper API**.
+    * Integrated **Groq API** for ultra-low latency text generation, providing near-instant responses.
+    * Deployed a user-friendly interface via **Streamlit**.
+
+### 🎓 StudyMate AI | Intelligent Student Mentor
+* **Description:** A personalized mentor platform that helps students navigate their learning journey.
+* **Key Features:**
+    * Built an **AI Roadmap Generator** and **Chat Mentor** powered by **Groq (Llama-3.1)**.
+    * Implemented a robust **Python/Flask** backend.
+    * Designed a modern, responsive **Glassmorphism** UI using vanilla JavaScript and CSS.
+
+### 🔐 Secure Image Steganography | Cybersecurity
+* **Description:** A tool for secure, encrypted data transmission hidden within digital media.
+* **Key Features:**
+    * Designed an encryption system using **Python** and **OpenCV**.
+    * Ensures data integrity and stealth by hiding sensitive information within image pixels.
+
+---
 
 ### 📊 Performance & Consistency
 
