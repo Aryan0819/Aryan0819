@@ -29,16 +29,12 @@
 - [cite_start]**Secure Image Steganography**: Python & OpenCV system for encrypted data transmission[cite: 21].
 
 ### 📊 Performance & Consistency
-### 📊 Performance & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0819&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
 </p>
-
----
