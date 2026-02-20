@@ -22,7 +22,7 @@
 </p>
 
 - **AI & ML**: Generative AI, NLP, TensorFlow Lite, scikit-learn, Gemini 2.5 API, Groq API, Whisper API.
-- **Programming**: Python, Java, C, SQL, OOPS, DAS.
+- **Programming**: Python, Java, C, SQL, OOPS, DSA.
 - **Voice & Cloud**: Dialogflow, Firebase, Google Cloud, Vertex AI, Streamlit, API Integration.
 - **Cybersecurity**: Cryptography, Network Security, Penetration Testing.
 
