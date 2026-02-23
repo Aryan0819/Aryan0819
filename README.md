@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Google+Student+Ambassador;Generative+AI+Developer;GSoC+2026+Aspirant;Flutter+%26+Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Generative+AI+Developer;GSoC+2026+Aspirant;Flutter+%26+Python+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
