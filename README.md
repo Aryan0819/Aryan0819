@@ -31,9 +31,10 @@
   <img src="https://img.shields.io/badge/NLP-Green?style=for-the-badge" />
 </p>
 
-#### 🌐 Web & Mobile Development
+#### 🌐 Web, Mobile & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,firebase,mongodb,react,css,html,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,firebase,mongodb,react,vercel,css,html" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 </p>
 
 #### ⚙️ Tools & DevOps
