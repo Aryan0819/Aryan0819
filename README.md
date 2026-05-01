@@ -1,18 +1,20 @@
 # Hi there 👋
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Generative+AI+Developer;Flutter+%26+Python+Enthusiast;Cybersecurity+Intership" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Generative+AI+Developer;Flutter+%26+Python+Enthusiast;Cybersecurity+Internship" alt="Typing SVG" />
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aryan-raj-620640352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aryanrajnc8521@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://gssoc.girlscript.org/"><img src="https://img.shields.io/badge/GSSoC_2026-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 Professional Snapshot
 - 🌟 **Google Student Ambassador**: Strategic lead for developer community growth and technical workshop execution.
+- 👩‍💻 **Open Source Contributor**: Actively contributing to real-world projects in the **GirlScript Summer of Code (GSSoC '26)**.
 - 🤖 **AI/ML Developer**: Specialized in low-latency LMM inference and production-grade Generative AI pipelines.
 - 🛡️ **Cybersecurity Intern**: Completed a professional internship focused on penetration testing, cryptography, and secure system design through IBM Skills Build.
 
