@@ -72,7 +72,7 @@
 ### 📊 Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=prs_merged" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight" height="180" />
 </p>
 
