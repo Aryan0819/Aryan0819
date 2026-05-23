@@ -72,11 +72,11 @@
 ### 📊 Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=prs_merged" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight" height="180" />
 </p>
 
----
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=100&section=footer" width="100%" />
+  <img src="https://img.shields.io/github/issues-pr-merged/Aryan0819/kaamsetu?label=KaamSetu%20PRs%20Merged&style=for-the-badge&color=purple" height="35" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Merged%20PRs&query=%24.items.length&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AAryan0819%2Btype%3Apr%2Bis%3Amerged&color=4285F4&logo=github" height="35" />
 </p>
