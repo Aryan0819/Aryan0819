@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ### 🚀 Professional Snapshot
 - 🌟 **Google Student Ambassador**: Strategic lead for developer community growth and technical workshop execution.
 - 👩‍💻 **Open Source Contributor**: Actively contributing to real-world projects in the **GirlScript Summer of Code (GSSoC '26)**.
