@@ -69,7 +69,6 @@
 ---
 
 ### 📊 Performance & Contributions
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight" height="180" />
@@ -77,6 +76,6 @@
 
 <p align="center">
   <a href="https://github.com/search?q=author%3AAryan0819+type%3Apr+is%3Amerged">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Merged%20Pull%20Requests&query=%24.items.length&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AAryan0819%2Btype%3Apr%2Bis%3Amerged&color=7aa2f7&logo=github&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Merged%20Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AAryan0819%2Btype%3Apr%2Bis%3Amerged&color=7aa2f7&logo=github&logoColor=white" height="40" />
   </a>
 </p>
