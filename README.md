@@ -86,13 +86,16 @@
 ### 📊 GitHub Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=prs" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="190" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aryan0819">
-    <img src="https://img.shields.io/badge/Merged_Pull_Requests-300%2B-7aa2f7?style=for-the-badge&logo=github&logoColor=white" height="36" alt="300+ Merged PRs" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AAryan0819">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Aryan0819/Aryan0819/main/total-prs.json&style=for-the-badge" height="36" alt="Total Pull Requests" />
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AAryan0819+is%3Amerged">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Aryan0819/Aryan0819/main/merged-prs.json&style=for-the-badge" height="36" alt="Merged Pull Requests" />
   </a>
   <a href="https://gssoc.girlscript.org/">
     <img src="https://img.shields.io/badge/Open_Source_PRs-GSSoC_'26-FF6F00?style=for-the-badge&logo=git&logoColor=white" height="36" alt="GSSoC PRs" />
