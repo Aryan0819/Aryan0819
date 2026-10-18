@@ -86,7 +86,7 @@
 ### 📊 GitHub Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
