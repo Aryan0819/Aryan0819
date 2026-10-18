@@ -86,15 +86,15 @@
 ### 📊 GitHub Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="185" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="185" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=prs" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AAryan0819">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AAryan0819%2Btype%3Apr&color=3b82f6&logo=github&logoColor=white&cacheSeconds=3600" height="36" alt="Total PRs" />
+  <a href="https://github.com/Aryan0819">
+    <img src="https://img.shields.io/badge/Merged_Pull_Requests-300%2B-7aa2f7?style=for-the-badge&logo=github&logoColor=white" height="36" alt="300+ Merged PRs" />
   </a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AAryan0819+is%3Amerged">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Merged%20Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AAryan0819%2Btype%3Apr%2Bis%3Amerged&color=7aa2f7&logo=github&logoColor=white&cacheSeconds=3600" height="36" alt="Merged PRs" />
+  <a href="https://gssoc.girlscript.org/">
+    <img src="https://img.shields.io/badge/Open_Source_PRs-GSSoC_'26-FF6F00?style=for-the-badge&logo=git&logoColor=white" height="36" alt="GSSoC PRs" />
   </a>
 </p>
