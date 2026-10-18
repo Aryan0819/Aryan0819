@@ -19,9 +19,9 @@
 ---
 
 ### 🚀 Professional Snapshot
-- 🌟 **Google Student Ambassador & Manager (Android Club, VIT-AP)**: Leading developer community growth, technical workshops, and flagship hackathons.
-- 🔬 **AI/ML Researcher & Developer**: Specialized in low-latency LLM inference, edge AI, and production-grade Generative AI pipelines (former Summer Research Intern at **IIT Gandhinagar**).
-- 💻 **Open Source Contributor**: Actively contributing to real-world repositories in **GirlScript Summer of Code (GSSoC '26)**.
+- 🌟 **Google Student Ambassador**: Leading developer community growth, technical workshops, and flagship hackathons.
+- 🔬 **AI/ML Researcher & Developer**: Specialized in low-latency LLM inference, edge AI, and production-grade Generative AI pipelines.
+- 💻 **Open Source Contributor**: Actively contributing to real-world repositories in **GSSoC '26**.
 - 🛡️ **Cybersecurity Intern**: Completed training focused on penetration testing, cryptography, and steganography under **AICTE & IBM SkillsBuild**.
 
 ---
@@ -30,7 +30,7 @@
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,dart,mysql" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,ts,dart,mysql" alt="Programming Languages" />
 </p>
 
 #### 🧠 AI, ML & Cloud
@@ -61,6 +61,11 @@
 
 ## 🏗️ Featured Projects
 
+### ⚖️ FairJudge | AI-Assisted Hackathon Management & Evaluation Engine
+- **The Problem:** Reviewer bias, scoring inconsistencies, and manual coordination bottlenecks in large-scale hackathons.
+- **The Solution:** Built a multi-role platform using **Next.js 14 (TypeScript & Tailwind CSS)**, a **Node.js/Express** API gateway, **MongoDB Atlas**, and a **Python/FastAPI** AI microservice powered by **Sentence Transformers** and **Scikit-learn**.
+- **Key Impact:** Automated conflict-free judge allocation, balanced team clustering, duplicate submission detection, and real-time reviewer bias/anomaly flagging across the end-to-end event lifecycle.
+
 ### 🛡️ Shadow Gateway | Software-Defined Air-Gap Security
 - **The Problem:** Data exfiltration risks in highly sensitive, isolated network environments.
 - **The Solution:** Engineered a zero-trust software-defined bridge using **FastAPI** for controlled data transit, **React & Tailwind CSS** for the monitoring interface, and **Firebase Realtime Database** for live state management.
@@ -70,11 +75,6 @@
 - **The Problem:** Lack of accessible employment infrastructure in low-connectivity rural areas.
 - **The Solution:** Developed a privacy-first skill-matching engine using **TensorFlow Lite** for on-device edge inference, paired with **FastAPI**, **Firebase**, and a **Dialogflow** multilingual voice assistant.
 - **Key Impact:** Reduced matching latency by 40% and delivered a scalable, voice-first architecture built for rural accessibility.
-
-### 🧠 MindMate AI | Low-Latency Emotional Companion
-- **The Problem:** High response latency in conversational mental wellness applications.
-- **The Solution:** Optimized real-time voice and text inference using the **Groq API (Llama 3.1)**, **Whisper API**, and **Streamlit**, paired with a custom Glassmorphism interface.
-- **Key Impact:** Achieved sub-100ms token streaming response times and 88% sentiment detection accuracy across diverse user scenarios.
 
 ### 🔐 Secure Image Steganography | Cryptography
 - **The Problem:** Insecure transmission of sensitive data over public channels.
