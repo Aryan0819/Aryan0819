@@ -86,7 +86,7 @@
 ### 📊 GitHub Performance & Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan0819&theme=tokyonight" height="185" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan0819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="185" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0819&theme=tokyonight&hide_border=true" height="185" alt="GitHub Streak" />
 </p>
 
