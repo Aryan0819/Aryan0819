@@ -92,12 +92,9 @@
 
 <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAryan0819">
-    <img src="https://img.shields.io/badge/Total_Pull_Requests-320%2B-3b82f6?style=for-the-badge&logo=github&logoColor=white" height="36" alt="Total Pull Requests" />
+    <img src="https://img.shields.io/badge/Total_Pull_Requests-324-3b82f6?style=for-the-badge&logo=github&logoColor=white" height="36" alt="Total Pull Requests" />
   </a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAryan0819+is%3Amerged">
-    <img src="https://img.shields.io/badge/Merged_Pull_Requests-300%2B-7aa2f7?style=for-the-badge&logo=github&logoColor=white" height="36" alt="Merged Pull Requests" />
-  </a>
-  <a href="https://gssoc.girlscript.org/">
-    <img src="https://img.shields.io/badge/Open_Source_PRs-GSSoC_'26-FF6F00?style=for-the-badge&logo=git&logoColor=white" height="36" alt="GSSoC PRs" />
+    <img src="https://img.shields.io/badge/Merged_Pull_Requests-312-7aa2f7?style=for-the-badge&logo=github&logoColor=white" height="36" alt="Merged Pull Requests" />
   </a>
 </p>
